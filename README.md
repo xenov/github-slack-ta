@@ -17,7 +17,7 @@ _若気のイタリック_
 ---
 
 |Districts|Name|Feature|
-|:--|--:|:--:|
+|:--:|:--:|:--:|
 |1|currykingdom|カレー美味しい|
 |2|puddingfactory|プリン作ってる|
 
