@@ -2,7 +2,6 @@
 auther:  
 [mottirioisii](https://github.com/mottirioisii)  
 [xenov](https://github.com/xenov)
-xenov
 ---
 ## はにゃ？ほにゃ？
 [ ] はにゃ  
