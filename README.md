@@ -1,5 +1,5 @@
 # github-slack-ta
 ## test
 ### branch
-- [] はにゃ 
+- [] はにゃ
 - [x] ほにゃ
