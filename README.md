@@ -1,7 +1,16 @@
-[はにゃほにゃについて]
-===
 # github-slack-ta
 ## test
 ### branch
-- [x]    はにゃ
-- [ ]    ほにゃ
+- [] はにゃ
+- [x] ほにゃ
+
+_若気のイタリック_
+
+1. はにゃ
+2. ほにゃ
+3. はにゃほにゃ
+***
+- hanyahonyaplanet
+  - currykingdom
+  - puddingfactory
+***
