@@ -1,3 +1,5 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/mottirioisii/github-slack-ta/master?grs=github&t=white)
+
 # はにゃほにゃ
 
 ---
